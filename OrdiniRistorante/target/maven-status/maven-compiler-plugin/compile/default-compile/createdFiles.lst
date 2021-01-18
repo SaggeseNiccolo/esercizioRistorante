@@ -1,0 +1,7 @@
+com\ordiniristorante\Piatto.class
+com\ordiniristorante\OrdineTavolo.class
+com\ordiniristorante\OrdineDomicilio.class
+com\ordiniristorante\OrdiniRistorante.class
+com\ordiniristorante\Ordine.class
+com\ordiniristorante\Ristorante.class
+com\ordiniristorante\Ingrediente.class
